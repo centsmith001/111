@@ -201,4 +201,8 @@ MyStunnelC
 
  # Restarting stunnel service
  systemctl restart $StunnelDir
+ }
+InstSSH
+InsStunnel
+InstWebmin
 exit 1
